@@ -8,6 +8,7 @@ First Project to use JavaScript in it, where you can customize the theme of webs
 - Responsive
 - Pexile Perfect
 - Animations
+- Customizable
 
 ## Installation
 Nothing required to be installed
